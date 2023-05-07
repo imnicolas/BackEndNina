@@ -1,5 +1,6 @@
 C:\Users\Claudia\Desktop\ARGENTINA PROGRAMA\BackEnd\src\main\java\com\portfolio\acc\Security\jwt\JwtProvider.java
 C:\Users\Claudia\Desktop\ARGENTINA PROGRAMA\BackEnd\src\main\java\com\portfolio\acc\Controller\CHys.java
+C:\Users\Claudia\Desktop\ARGENTINA PROGRAMA\BackEnd\src\main\java\com\portfolio\acc\Dto\dtoPersona.java
 C:\Users\Claudia\Desktop\ARGENTINA PROGRAMA\BackEnd\src\main\java\com\portfolio\acc\Security\Entity\UsuarioPrincipal.java
 C:\Users\Claudia\Desktop\ARGENTINA PROGRAMA\BackEnd\src\main\java\com\portfolio\acc\Security\Enums\RolNombre.java
 C:\Users\Claudia\Desktop\ARGENTINA PROGRAMA\BackEnd\src\main\java\com\portfolio\acc\Security\Entity\Rol.java
@@ -28,7 +29,6 @@ C:\Users\Claudia\Desktop\ARGENTINA PROGRAMA\BackEnd\src\main\java\com\portfolio\
 C:\Users\Claudia\Desktop\ARGENTINA PROGRAMA\BackEnd\src\main\java\com\portfolio\acc\Security\MainSecurity.java
 C:\Users\Claudia\Desktop\ARGENTINA PROGRAMA\BackEnd\src\main\java\com\portfolio\acc\Security\Controller\AuthController.java
 C:\Users\Claudia\Desktop\ARGENTINA PROGRAMA\BackEnd\src\main\java\com\portfolio\acc\Security\Dto\JwtDto.java
-C:\Users\Claudia\Desktop\ARGENTINA PROGRAMA\BackEnd\src\main\java\com\portfolio\acc\Interface\IPersonaService.java
 C:\Users\Claudia\Desktop\ARGENTINA PROGRAMA\BackEnd\src\main\java\com\portfolio\acc\Security\Controller\Mensaje.java
 C:\Users\Claudia\Desktop\ARGENTINA PROGRAMA\BackEnd\src\main\java\com\portfolio\acc\Security\Service\UsuarioService.java
 C:\Users\Claudia\Desktop\ARGENTINA PROGRAMA\BackEnd\src\main\java\com\portfolio\acc\Repository\IPersonaRepository.java
